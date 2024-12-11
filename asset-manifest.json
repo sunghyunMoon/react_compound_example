@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_compound_example/static/css/main.f855e6bc.css",
+    "main.js": "/react_compound_example/static/js/main.f4b5b3ab.js",
+    "index.html": "/react_compound_example/index.html",
+    "main.f855e6bc.css.map": "/react_compound_example/static/css/main.f855e6bc.css.map",
+    "main.f4b5b3ab.js.map": "/react_compound_example/static/js/main.f4b5b3ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f4b5b3ab.js"
+  ]
+}
